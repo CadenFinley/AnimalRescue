@@ -1,0 +1,21 @@
+rescue cat Zippy
+rescue dog Yippy
+rescue cat Whippy
+request dog
+request either
+rescue cat Tippy
+request cat
+request dog
+rescue cat Sippy
+rescue dog Rippy
+rescue dog Quippy
+request either
+request either
+request either
+rescue cat Puppy
+rescue cat Nippy
+request dog
+rescue dog Moppy
+request cat
+request dog
+request either
